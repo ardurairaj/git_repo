@@ -1,5 +1,6 @@
-create table
+create table Test
 (
 id int,
-name varhcar
+name varhcar(100),
+city varchar(100),
 )
