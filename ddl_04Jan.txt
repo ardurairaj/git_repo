@@ -1,7 +1,4 @@
-create table User
+alter table User
 (
-id int,
-name varhcar(100),
-city varchar(100),
-Country varchar(100)
+add column zipcode varchar(100)
 )
