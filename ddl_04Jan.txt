@@ -1,6 +1,7 @@
-create table Test
+create table User
 (
 id int,
 name varhcar(100),
 city varchar(100),
+Country varchar(100)
 )
