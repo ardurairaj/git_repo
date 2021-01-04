@@ -1,0 +1,4 @@
+alter table User
+(
+add column zipcode varchar(100)
+)
